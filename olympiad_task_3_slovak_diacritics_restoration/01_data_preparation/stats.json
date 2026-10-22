@@ -1,0 +1,9 @@
+{
+    "total_sentence_pairs": 20000,
+    "train_pairs": 18000,
+    "val_pairs": 2000,
+    "avg_sentence_length_chars": 125.1,
+    "total_characters": 2502504,
+    "diacritic_characters_count": 183626,
+    "unique_words": 66144
+}
