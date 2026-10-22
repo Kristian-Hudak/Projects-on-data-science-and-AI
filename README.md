@@ -10,6 +10,7 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8.svg?logo=opencv&logoColor=white)](https://opencv.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -119,3 +120,9 @@ Many notebooks were authored for execution in **Google Colab** with GPU accelera
 - Paths beginning with `/content/` reflect standard Colab session storage environments.
 - Dataset files used in the projects (e.g. `recepty(75).xlsx`, `priklad na zdravsie suroviny.csv`, `2000_fixed_digits.pt`) are included directly within their corresponding project directories.
 - All notebooks have their pre-computed cell outputs, plots, and metrics preserved for immediate preview on GitHub without requiring re-execution.
+ 
+---
+ 
+## License
+ 
+This project portfolio is licensed under the [MIT License](LICENSE) &copy; 2026 Kristian Hudák.
