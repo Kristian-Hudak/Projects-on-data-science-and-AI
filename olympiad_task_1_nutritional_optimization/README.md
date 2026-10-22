@@ -41,3 +41,10 @@ olympiad_task_1_nutritional_optimization/
 - **Why Deep Learning Outperforms Linear Models:** Demonstrates that computing total energy ($\sum \text{Weight}_i \times \text{Density}_i$) is an intrinsically non-linear multiplicative problem that single-layer linear models cannot resolve without non-linear hidden representations.
 - **Multi-Objective Loss Formulation:** Incorporates asymmetric penalties to enforce dietary targets:
   $$\mathcal{L}_{\text{penalty}} = 0.5 \cdot \text{kcal} + 1.2 \cdot \text{carbs} + 0.1 \cdot \text{fat} - 1.2 \cdot \text{protein}$$
+
+---
+
+## Dataset Access
+
+Complete raw ingredient corpora and full tabular datasets can be provided for local execution upon request. Please contact the author via [LinkedIn](https://www.linkedin.com/in/kristi%C3%A1n-hud%C3%A1k-6260a7446).
+

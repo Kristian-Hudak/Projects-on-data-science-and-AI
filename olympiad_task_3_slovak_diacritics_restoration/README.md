@@ -41,3 +41,10 @@ Evaluated on the official validation dataset strictly across Slovak diacritic-be
 | :--- | :---: | :--- |
 | **Zero-Shot SlovakBERT MLM** | ~91.50 % | Requires zero training; predicts valid grammatical forms |
 | **Fine-Tuned SlovakBERT + Vocabulary Constraints** | **~97.20 %** | **+5.7% accuracy boost;** resolves complex homonyms and casing |
+
+---
+
+## Dataset & Checkpoint Access
+
+The full Wikipedia evaluation sets and model fine-tuning outputs can be requested for local reproduction by reaching out on [LinkedIn](https://www.linkedin.com/in/kristi%C3%A1n-hud%C3%A1k-6260a7446).
+

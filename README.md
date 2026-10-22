@@ -3,6 +3,7 @@
 **Author:** Kristian Hudák  
 **Focus:** Deep Learning, Natural Language Processing, Computer Vision & Generative AI  
 **Context:** Slovak National Olympiad in Artificial Intelligence (OAI) & Applied ML Projects  
+**LinkedIn:** [linkedin.com/in/kristián-hudák](https://www.linkedin.com/in/kristi%C3%A1n-hud%C3%A1k-6260a7446)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -120,9 +121,33 @@ Many notebooks were authored for execution in **Google Colab** with GPU accelera
 - Paths beginning with `/content/` reflect standard Colab session storage environments.
 - Dataset files used in the projects (e.g. `recepty(75).xlsx`, `priklad na zdravsie suroviny.csv`, `2000_fixed_digits.pt`) are included directly within their corresponding project directories.
 - All notebooks have their pre-computed cell outputs, plots, and metrics preserved for immediate preview on GitHub without requiring re-execution.
- 
+
 ---
- 
+
+## Environment Setup & Local Execution
+
+To set up a local environment and install required dependencies:
+
+```bash
+git clone https://github.com/Kristian-Hudak/Projects.git
+cd Projects
+pip install -r requirements.txt
+```
+
+---
+
+## Dataset Access
+
+Key sample datasets and pre-computed evaluation outputs are included directly in the repository for immediate inspection.
+
+If you would like to run any of the notebooks or pipelines locally with full raw datasets, training corpora, or pre-trained model weights, please send a message on LinkedIn:
+- **LinkedIn:** [https://www.linkedin.com/in/kristián-hudák-6260a7446](https://www.linkedin.com/in/kristi%C3%A1n-hud%C3%A1k-6260a7446)
+
+I will be glad to share the necessary data files and checkpoints upon request.
+
+---
+
 ## License
- 
+
 This project portfolio is licensed under the [MIT License](LICENSE) &copy; 2026 Kristian Hudák.
+

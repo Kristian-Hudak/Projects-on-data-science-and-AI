@@ -23,3 +23,10 @@ In this computer vision competition task, participants were challenged to restor
    - `mnist_digit_restoration_autoencoder.ipynb`: Full end-to-end training and inference notebook.
    - `repairer.pth`: Fine-tuned PyTorch state dictionary checkpoint.
    - `2000_fixed_digits.pt`: The final restored competition evaluation tensor dataset.
+
+---
+
+## Dataset & Checkpoint Access
+
+The base pre-trained checkpoint (`pytorch_mnist_autoencoder_model.pth`) and full paired training datasets can be requested for local reproduction by reaching out on [LinkedIn](https://www.linkedin.com/in/kristi%C3%A1n-hud%C3%A1k-6260a7446).
+
