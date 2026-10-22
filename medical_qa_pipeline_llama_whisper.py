@@ -42,7 +42,7 @@ if hf_token:
 else:
     print("Note: HF_TOKEN is not set. Ensure it is defined in your environment or .env file.")
 
-# 2. Nastavenie zariadeni (GPU vs CPU)
+# 2. Device configuration (GPU vs CPU)
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Inference device: {device}")
 
